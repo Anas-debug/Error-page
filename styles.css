@@ -15,10 +15,20 @@
     max-width: 190px;
     max-height: 31px;
     background-color: #F5A000;
+    text-align: center;
+    order:2;
 }
 
 .tagline{
     font-family: Lato, Bold Italic;
     font-size: 9px;
+    text-align:  center;
+    order: 1;
 
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
