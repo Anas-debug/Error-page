@@ -7,7 +7,9 @@
     min-height: 80px;
 }
 
-.header > .header-icon-placeholder{
+.header > div> .header-icon-placeholder{
+    margin-top: 24px;
+    position: absolute;
     min-width: 190px;
     min-height: 31px;
     max-width: 190px;
