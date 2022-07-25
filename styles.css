@@ -10,5 +10,7 @@
 .header > .header-icon-placeholder{
     min-width: 190px;
     min-height: 31px;
+    max-width: 190px;
+    max-height: 31px;
     background-color: #F5A000;
 }
