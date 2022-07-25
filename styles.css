@@ -23,12 +23,15 @@
     font-family: Lato, Bold Italic;
     font-size: 9px;
     text-align:  center;
-    order: 1;
 
 }
 
 .header{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    border-bottom: #F5A000 solid 2px;
+}
+
+.footer{
+    min-width: 1280px;
+    min-height: 345px;
+    background-color: #000000;
 }
